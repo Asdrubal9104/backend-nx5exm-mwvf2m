@@ -1,0 +1,12 @@
+{
+  "name": "typescript",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "Express": "^3.0.1",
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^8.2.0",
+    "firebase": "^8.2.0",
+    "mongoose": "^5.11.8"
+  }
+}
